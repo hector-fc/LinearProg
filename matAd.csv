@@ -1,0 +1,10 @@
+,La Paz ,Oruro,Potosi,Tarija,Chuquisaca,Cochabamba,Beni,Pando,Santa Cruz
+La Paz ,0,1,0,0,0,1,1,1,0
+Oruro,1,0,1,0,0,1,0,0,0
+Potosi,0,1,0,1,1,1,0,0,0
+Tarija,0,0,1,0,1,0,0,0,0
+Chuquisaca,0,0,1,1,0,1,0,0,1
+Cochabamba,1,1,1,0,1,0,1,0,1
+Beni,1,0,0,0,0,1,0,1,1
+Pando,1,0,0,0,0,0,1,0,0
+Santa Cruz,0,0,0,0,1,1,1,0,0
