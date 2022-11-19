@@ -57,7 +57,8 @@ function simplexSimple(A,b,c,B_idx)  #
     B_idx = union(setdiff(B_idx,Set([r_idx])),Set([s_idx]))
     iter+=1
     @printf("i=%4i  obj=%4.2f\n",iter,z_val)
-  end   
+  end
+    
   return @printf("\n Fim 😎\n")   
 end
 	
